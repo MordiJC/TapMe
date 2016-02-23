@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>components/Balloon.qml</file>
+        <file>components/balloon_black.png</file>
+        <file>components/balloon_blue.png</file>
+        <file>components/balloon_green.png</file>
+        <file>components/balloon_red.png</file>
+    </qresource>
+</RCC>
